@@ -7,9 +7,9 @@ This project was created to
 - pull and export all records of the "PARK - ON BOULEVARD" infraction with associated fines and street locations into a new csv file
 
 **Folder Structure**
-/scripts - you can run the script by using the path /scripts/DSI-UNIX.sh
-/inputs - the file topark.csv is the 2020 parking dataset downloaded from the City of Toronto's [Open Data Portal] (https://open.toronto.ca/dataset/parking-tickets/).
-/outputs - this folder will hold the sorted topark.csv data and the infraction.csv file will contain the specified "PARK - ON BOULEVARD" data after you run the script.
+- /scripts - you can run the script by using the path /scripts/DSI-UNIX.sh
+- /inputs - the file topark.csv is the 2020 parking dataset downloaded from the City of Toronto's [Open Data Portal] (https://open.toronto.ca/dataset/parking-tickets/).
+- /outputs - this folder will hold the sorted topark.csv data and the infraction.csv file will contain the specified "PARK - ON BOULEVARD" data after you run the script.
 
 **Instructions**
 1. DSI-UNIX.sh uses three positional parameters. This means in addition to entering ./scripts/DSI-UNIX.sh, you will need to add the following to your cmd line:
