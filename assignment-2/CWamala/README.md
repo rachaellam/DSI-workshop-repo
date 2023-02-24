@@ -12,5 +12,7 @@ The repository consists of three folders:
 
 ## Installation
 Save the following two files to your Desktop folder: DSF_assignment1.sh, parking_data.csv
-Open your terminal and input the following in the command line: ./DSF_assignment1.sh parking_data.csv" to assign the csv file to positional parameter $1. 
+
+Open your terminal and input the following in the command line: "./DSF_assignment1.sh parking_data.csv" to assign the csv file to positional parameter $1. 
+
 Please note that the script will create a new file named Assignment1_extract1.csv in your Desktop folder. This is a CSV file that saves information for one type of parking infraction (PARK IN A FIRE ROUTE).
