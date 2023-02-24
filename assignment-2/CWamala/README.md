@@ -1,4 +1,4 @@
-# Assignment 1 (Unix and Data) of the Data Science Foundations Course
+# Assignment 2 (Git and GitHub) of the Data Science Foundations Course
 
 ## Description
 This repository contains all of the files and documentation developed as part of Assignment 1 of the Data Science Foundations course.
