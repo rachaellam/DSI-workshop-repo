@@ -1,0 +1,121 @@
+parking infractions-FAIL ANGLE PARK/STOP AT 45 DEG
+parking infractions-FAIL PARK/STP LEFT WHLS PARALL
+parking infractions-FAIL PARK/STP NEAR RIGHT LIMIT
+parking infractions-FAIL TO (PARK/STOP) ANGLE SPCE
+parking infractions-FAIL TO PARK/STOP PARALL. CURB
+parking infractions-FAIL TO PARK/STOP PARALL. RGHT
+parking infractions-PARK - BETWEEN ROAD & SIDEWALK
+parking infractions-PARK - BOULEVD NO VALID PLATES
+parking infractions-PARK - LONGER THAN 3 HOURS
+parking infractions-PARK - NOT WITHIN PERIOD
+parking infractions-PARK - ON BOULEVARD
+parking infractions-PARK - ON FRONT YARD
+parking infractions-PARK ACC NO PERMIT
+parking infractions-PARK ACCESSIBLE LOAD NO PERMIT
+parking infractions-PARK ACCESSIBLE LOAD NOT DRP/O
+parking infractions-PARK ACCESSIBLE NOT DROP OFF
+parking infractions-PARK BUS PK SPC/MCHINE-PR TIME
+parking infractions-PARK BUS-FAIL TO ACTIV MACHINE
+parking infractions-PARK COMMERC LOAD ZONE NOT LDG
+parking infractions-PARK CONTRARY POSTED CONDITION
+parking infractions-PARK FAIL TO DEPOSIT FEE METER
+parking infractions-PARK FAIL TO DISPLAY RECEIPT
+parking infractions-PARK HEAVY (TRUCK/VEH.) TM/DY
+parking infractions-PARK IN A FIRE ROUTE
+parking infractions-PARK IN ACCESSIBLE NO PERMIT
+parking infractions-PARK IN PARK NOT IN DESIG AREA
+parking infractions-PARK LT 0.3M FROM SIDEWALK
+parking infractions-PARK MACHINE-FAIL TO ACTIVATE
+parking infractions-PARK MACHINE-REQD FEE NOT PAID
+parking infractions-PARK MORE THAN 7DAYS NO PERMIT
+parking infractions-PARK NON-BUS-BUS PK ZNE DY/TM
+parking infractions-PARK NON-MTRCYCLE IN MTRCYC SP
+parking infractions-PARK ON MUNICIPAL PROPERTY
+parking infractions-PARK ON PRIVATE PROPERTY
+parking infractions-PARK ONSTRT ACCESSIBLE NO PRMT
+parking infractions-PARK ONSTRT ACCESSIBLE NOT D/O
+parking infractions-PARK OTHER THAN METERED SPACE
+parking infractions-PARK PRO VEH ON BICYCLE PATH
+parking infractions-PARK PRO VEH ON PEDESTRIAN WAY
+parking infractions-PARK PROHIBITED TIME NO PERMIT
+parking infractions-PARK TAXI FOR HIRE-UNAUTH LOC
+parking infractions-PARK VEH LNGR THAN 20 MIN
+parking infractions-PARK VEH ON ST WITHOUT PERMIT
+parking infractions-PARK VEH.-COMMERCIAL LOAD ZONE
+parking infractions-PARK VEH.-WASH/GREASE/REPAIR
+parking infractions-PARK VEHICLE - FOR SALE
+parking infractions-PARK VEHICLE LONGER THAN 24HR
+parking infractions-PARK VEHICLE ON ROADWAY
+parking infractions-PARK VEHICLE OUTSIDE OF SPACE
+parking infractions-PARK VEHICLE PROHIBITED TIME
+parking infractions-PARK VEHICLE WHILE NOT IN PARK
+parking infractions-PARK-(FRNT/60 CM) DRWAY/LANEWY
+parking infractions-PARK-15M FAR SIDE OF CROSSWALK
+parking infractions-PARK-15M OF DEAD END STREET
+parking infractions-PARK-30.5M APPROACH TO CRSSWLK
+parking infractions-PARK-30.5M FIRE HALL OPP SIDE
+parking infractions-PARK-30.5M SIGNALIZED INTERSCT
+parking infractions-PARK-7.5M FIRE HALL SAME SIDE
+parking infractions-PARK-FAIL TO ACTIVATE MACHINE
+parking infractions-PARK-FAIL TO DISPLAY PERMIT
+parking infractions-PARK-HWY DRNG PROH TIMES/DAYS
+parking infractions-PARK-ISSUED CARD NOT DISPLAYED
+parking infractions-PARK-N.YORK 2AM-6AM DEC1-MAR31
+parking infractions-PARK-OBSTRUCT (DRWAY/LANEWAY)
+parking infractions-PARK-SIGNED HWY-"T" INTERSECTN
+parking infractions-PARK-SIGNED HWY-15M INTERSECTN
+parking infractions-PARK-SIGNED HWY-EXC PERMT TIME
+parking infractions-PARK-SIGNED HWY-PROHIBIT DY/TM
+parking infractions-PARK-SIGNED HWY-PUBLIC LANE
+parking infractions-PARK-SIGNED HWY-TURNING BASIN
+parking infractions-PARK-VEH. W/O VALID ONT PLATE
+parking infractions-PARK-W/O VALID NON-ONT PLATE
+parking infractions-PARK-WITHIN 3M OF FIRE HYDRANT
+parking infractions-PARK-WITHIN 9M INTERSECT ROAD
+parking infractions-PARK/LEAVE CONTRARY TO SIGN
+parking infractions-PARK/STAND CAR-SHARE VEH.-PERM
+parking infractions-PARK/STAND UNAUTH VEH. CAR SHR
+parking infractions-PARK/STOP LEFT WHLS > 30CM LFT
+parking infractions-PARK/STOP RGHT WHLS > 30CM CRB
+parking infractions-PARKING MACH-NOT USED/NO FEE
+parking infractions-PRK/STP LEFT WHLS CLSE TO LEFT
+parking infractions-STAND ACCESSIBLE NOT DROP OFF
+parking infractions-STAND IN ACCESSIBLE NO PERMIT
+parking infractions-STAND NON-TAXI IN SIGNED STAND
+parking infractions-STAND SIGNED TRANSIT STOP
+parking infractions-STAND TAXI-SIGNED STD-NOT HIRE
+parking infractions-STAND VEH.-PROHIBIT TIME/DAY
+parking infractions-STAND VEH.-PSGR LD ZN DAY TIME
+parking infractions-STAND VEH.-PSGR LD ZN LD/UNLD
+parking infractions-STAND VEH.-SIGNED HWY-RUSH HR
+parking infractions-STND ACCESSIBLE LOAD NO PERMIT
+parking infractions-STND ACCESSIBLE LOAD NOT DRP/O
+parking infractions-STND BUS-SIGNED HWY-PROH DY/TM
+parking infractions-STND ONSTRT ACCESSIBLE NO PRMT
+parking infractions-STND ONSTRT ACCESSIBLE NOT D/O
+parking infractions-STOP - BESIDE SAFETY ZONE
+parking infractions-STOP - IN UNDERPASS
+parking infractions-STOP - ON BRIDGE
+parking infractions-STOP - ON CENTRE STRIP
+parking infractions-STOP - ON MIDDLE BOULEVARD
+parking infractions-STOP BUS-SIGNED HWY-PROH DY/TM
+parking infractions-STOP NON-BICYCLE IN CYCLE TRCK
+parking infractions-STOP ONSTRT ACCESSIBLE NO PRMT
+parking infractions-STOP SIDE STOPPED/PARKED VEH
+parking infractions-STOP SIGNED HWY PRO TIMES/DAYS
+parking infractions-STOP UNAUTH VEHICLE VEND AREA
+parking infractions-STOP VEH OTR THN BCYCL-BYCL LN
+parking infractions-STOP VEH.RESRVD/DESIG LN TM/DY
+parking infractions-STOP-(ON/OVER) (SIDEWK/FTPATH)
+parking infractions-STOP-15M PEDESTRIAN X APPROACH
+parking infractions-STOP-9 M PEDESTRIAN X BEYOND
+parking infractions-STOP-ACROSS FROM EXCAV./OBSTR.
+parking infractions-STOP-ADJACENT CENTRE STRIP END
+parking infractions-STOP-ADJACENT MID. BOUL. SIDE
+parking infractions-STOP-ALONGSIDE EXCAV./OBSTR.
+parking infractions-STOP-NON-SCHL BUS IN SCHL LDZN
+parking infractions-STOP-ROAD SIDE-STOP/PARK VEH.
+parking infractions-STOP-SIGNED HIGHWAY-RUSH HOUR
+parking infractions-STOP-SIGNED HWY-PROHIBIT TM/DY
+parking infractions-STOP-WITHIN (INTERSCTN/PED X)
+parking infractions-STOP-WITHIN 9M OF SCHOOL CROSS
