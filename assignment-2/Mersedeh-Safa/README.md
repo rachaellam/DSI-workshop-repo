@@ -1,7 +1,7 @@
 # DSI: Unix Shell, Git and GitHub
 # Assignment 1: Unix and Data
 
-![Image](/DSI-workshop-repo/edit/main/assignment-2/Mersedeh-Safa/inputs/readmeimage.png) 
+![Image](https://github.com/mersedehsafa/DSI-workshop-repo/blob/main/assignment-2/Mersedeh-Safa/inputs/readmeimage.png) 
 
 ## Description
 
