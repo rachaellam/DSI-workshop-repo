@@ -1,31 +1,40 @@
 #DSI_Assignment_2_Apichat
 
-##Project name 
+## Project name 
 Assignment_2_AP
 
-##Description 
+## Description 
 This script uses the "Parking_data_HW.csv" which modified and renmaed from "Parking_Tags_Data_2020.001.csv" file as a parameter from the terminal as the input. I use a BASH script from Sublime Text to 
 - print all types of parking infractions. 
+- coding in Shell_script.sh
 - print the min and max of set_fine_amount. 
 - save the result in new CSV file named "AP_Assignment1_2c.csv". 
 
-##Program
+## Inputs 
+- Parking_data_HW.csv
+## Scripts
+- Shell_script.sh
+## Outputs
+- Preliminary output in AP_Assignment1_2c_Beta.csv
+- then convert to the final files in AP_Assignment1_2c.csv
+-
+## Program
 BAHS script created by Sublime Text, build 4143
 
-##Sources and references 
+## Sources and references 
 - https://open.toronto.ca/dataset/parking-tickets/  
 - https://github.com/rachaellam/dsi-workshop  
 
-##DSI_Assignment_2_Apichat
+## DSI_Assignment_2_Apichat
 These are the files for Unix homework
 
-##Project name 
+## Project name 
 Unix Homework
 
-##Description 
+## Description 
 Following the instruction from Unix homework
 
-##Program
+## Program
 BAHS script created by Sublime Text, build 4143
 
 ##Sources and references 
